@@ -1,4 +1,6 @@
 HawkEye Lab 
+
+
 Reconstruct a Hawk Eye Keylogger data exfiltration incident by analysing network traffic with Wireshark and Cyber Chef, identifying IoCs and stolen credentials.
 
 Tactics: Initial Access, Execution, Defense Evasion, Credential Access, Discovery Collection, Command and Control, Exfiltration
